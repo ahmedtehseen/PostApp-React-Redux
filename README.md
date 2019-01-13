@@ -1,7 +1,7 @@
 # Simple Post App (React/Redux)
 
 
-###Getting Started###
+# Getting Started
 
 ```
 	> git clone https://github.com/ahmedtehseen/PostApp-React-Redux-.git
